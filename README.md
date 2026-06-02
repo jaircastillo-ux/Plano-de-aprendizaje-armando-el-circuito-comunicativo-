@@ -14,7 +14,7 @@ conexiones reales en nuestro contexto educativo.
 ## 👥 2⃣Integrantes del grupo
 | Nombre | Rol en el grupo | Correo / Contacto |
 |--------|---------------|-------------------|
-|Briseida| | |
+|Jair | | |
 | | | |
 | | | |
 | | | |
