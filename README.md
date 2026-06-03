@@ -39,9 +39,7 @@ conexiones reales en nuestro contexto educativo.
 | Elemento        | Quién / Qué |        Detalles / Ejemplos                                    | Representación visual |
 |----------------|-------------------|----------------------------------------------------------|----------------------|
 | 🔊 **Emisor**  |docente/estudiante | quien inicia la comunicacion enviando un mensaje         |    🔊               |
-|  **Receptor** |estudiante/docente | quien recibe e interpreta el mensaje                     |      👥               |
-| 🌐 **Canal**   |medio fisico/digital| Ej: Google Meet, Moodle, WhatsApp, correo                |    🌐
-|
-| ⚠️ **Ruido**   |interferencia       | Ej: desconexión, distracción, mal diseño de contenido    |    ⚠️
-|
-| 🔁 **Retroalimentación** | respuesta | Cómo se completa el circuito                            |    🔁
+| 👂**Receptor** |estudiante/docente | quien recibe e interpreta el mensaje                      |     👂              |
+| 🌐 **Canal**   |medio fisico/digital| Ej: Google Meet, Moodle, WhatsApp, correo                |    🌐              |
+| ⚠️ **Ruido**|interferencia       | Ej: desconexión, distracción, mal diseño de contenido       |    ⚠️              |
+| 🔁 **Retroalimentación** | respuesta | Cómo se completa el circuito                            |    🔁              |
